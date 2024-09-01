@@ -1,7 +1,7 @@
-# Task-2-CODETECH-
+# Task-2-CODTECH-
 Name: Amruta Bhale
 
-Company: CODETECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 
 Id: CT6WTDS358
 
